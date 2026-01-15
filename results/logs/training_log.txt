@@ -1,4 +1,0 @@
-RandomForest | Best params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 300} | Val metrics: {'RMSE': 0.0606448464109165, 'MAE': 0.04744657746751988, 'R2': 0.3108235739848699} | Train time: 33.479s
-SVR | Best params: {'C': 0.5, 'gamma': 'scale'} | Val metrics: {'RMSE': 0.06837731510853196, 'MAE': 0.05470122405159857, 'R2': 0.12387373453669936} | Train time: 0.761s
-MLP | Best params: {'alpha': 0.01, 'hidden_layer_sizes': (420, 210)} | Val metrics: {'RMSE': 0.07220667156058626, 'MAE': 0.05713164497129075, 'R2': 0.022993923163314722} | Train time: 16.885s
-GPR | Best params: {'alpha': 0.01} | Val metrics: {'RMSE': 0.06671490288007254, 'MAE': 0.05277809923610984, 'R2': 0.16595721684896125} | Train time: 202.059s
